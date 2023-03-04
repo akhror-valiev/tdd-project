@@ -32,7 +32,7 @@
 
 ### Key Features <a name="key-features" />
 
-- **Convert morse code to letter**
+- **Write Rspec unit tests with mocks.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
